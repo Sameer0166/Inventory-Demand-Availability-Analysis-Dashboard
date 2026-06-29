@@ -119,8 +119,6 @@ During the development of this project, the following challenges were addressed:
 
 ![Product Analysis](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page%2B2.png)
 
-> Store all dashboard screenshots inside the **Images** folder.
-
 ---
 
 ## Skills Demonstrated
