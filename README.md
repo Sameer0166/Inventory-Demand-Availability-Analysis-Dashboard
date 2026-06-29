@@ -113,33 +113,13 @@ During the development of this project, the following challenges were addressed:
 
 ### Inventory Overview
 
-![Inventory Dashboard](Images/Inventory_Dashboard.png)
+![Inventory Dashboard](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page%2B1.png)
 
 ### Product Performance
 
-![Product Analysis](Images/Product_Analysis.png)
+![Product Analysis](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page%2B2.png)
 
 > Store all dashboard screenshots inside the **Images** folder.
-
----
-
-## Project Structure
-
-```text
-Inventory-Demand-Availability-Analysis/
-│
-├── README.md
-├── Inventory_Dashboard.pbix
-├── Dataset/
-│   └── Demand_Availability_Data.csv
-│
-├── Images/
-│   ├── Inventory_Dashboard.png
-│   └── Product_Analysis.png
-│
-└── SQL/
-    └── inventory_queries.sql
-```
 
 ---
 
