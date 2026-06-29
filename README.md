@@ -113,11 +113,11 @@ During the development of this project, the following challenges were addressed:
 
 ### Inventory Overview
 
-![Inventory Dashboard](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page%2B1.png)
+![Inventory Dashboard](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page1.png)
 
 ### Product Performance
 
-![Product Analysis](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page%2B2.png)
+![Product Analysis](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page%202.png)
 
 ---
 
